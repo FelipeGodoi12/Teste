@@ -1,0 +1,9 @@
+body{
+    background: rgba(128, 128, 128, 0.13);
+    text-align: left;
+    margin-right: 30%;
+    margin-left: 10%;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
